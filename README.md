@@ -13,5 +13,5 @@ MVRS: The Multimodal Virtual Reality Stimuli-based Emotion Recognition Dataset
       eprint={2509.05330},
       archivePrefix={arXiv},
       primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2509.05330}, 
-}
+      url={https://arxiv.org/abs/2509.05330},}
+
